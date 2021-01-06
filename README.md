@@ -3,5 +3,8 @@ This repository contains my first game made with Unity engine. Fundamental princ
 
 TO DO:
 -Add multiplayer feature
+
 -Add winning animation where all cubes (except 4 that make a winner) explode or fly away.
+
+-Code optimization -to increase performance: remove excess functionality from Update method in CreateCubeClick and call it once on mouse click (For example game logic)
 
