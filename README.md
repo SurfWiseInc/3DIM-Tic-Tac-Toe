@@ -7,5 +7,5 @@ TO DO:
 
 -Add winning animation where all cubes (except 4 that make a winning) explode or fly away.
 
--Optimize CreateCubeClick.cs
+-Optimize performace of script CreateCubeClick.cs
 
